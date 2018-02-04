@@ -1,5 +1,4 @@
-# JAE-Song_et_al-2017
-Why are some plant-pollinator networks more nested than others?
+# Chuliang Song, Rudolf P. Rohr, Serguei Saavedra. "Why are some plant-pollinator networks more nested than others?"  J. of Animal Ecology, 2017. 
 
 The file contains: 
 
